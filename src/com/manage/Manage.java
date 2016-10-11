@@ -135,7 +135,6 @@ public class Manage
 	}
 	
 	//查询作者名字，输出其所有书
-	//xxxxx
 	@SuppressWarnings("resource")
 	public List<Book> getBook(String Name)
 	{			
