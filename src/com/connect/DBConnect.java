@@ -30,7 +30,6 @@ public class DBConnect
 			String url = "jdbc:mysql://anfvigiwajmj.rds.sae.sina.com.cn:10598/bookdb";
 			conn = DriverManager.getConnection(url,username,password);
 			//mysqld --install MySQL --defaults-file="my.ini"
-			//net start mysql
 			//mysqld --console
 			//mysqld --skip-grant-tables
 			//mysql -hlocalhost -uroot -p
