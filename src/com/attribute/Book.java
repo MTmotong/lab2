@@ -70,6 +70,7 @@ public class Book{
 	public void setPrice(double Price) {
 		this.Price = Price;
 	}
+	//return;
 }
 
 
