@@ -23,8 +23,6 @@ public class DBConnect
 		try
 		{
 			String username="root";
-			String password = "dzy3210700";
-			//String password = "199587";
 			// + "?useUnicode=true&characterEncoding=UTF-8"
 			//String url = "jdbc:mysql://localhost:3306/bookdb";
 			String url = "jdbc:mysql://anfvigiwajmj.rds.sae.sina.com.cn:10598/bookdb";
