@@ -33,7 +33,6 @@ public class DBConnect
 			//mysqld --skip-grant-tables
 			//mysql -hlocalhost -uroot -p
 			//use mysql
-			//update user set password=password("199587") where user="root";FLUSH PRIVILEGES;
 		}
 		catch(SQLException e)
 		{
